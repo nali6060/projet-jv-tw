@@ -1,0 +1,13 @@
+/* src/input.css */
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+@layer components {
+    .bg-tdw{
+        background-image: url(twd.jpeg);
+        background-size: 1400px;
+    }
+}
